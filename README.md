@@ -1,4 +1,7 @@
 # E10a-Blender
+
+I created a man as best as I could with some special touches I added. 
+
 This exercise will give you an opportunity to get some experience using Blender (in advance of the requirements for Project 09).
 
 As usual, Fork and Clone this repository.
